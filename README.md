@@ -36,3 +36,52 @@ git clone https://github.com/3mman/RainONE.git
 cd RainONE
 mvn clean install
 docker-compose up
+
+Run the demo softphone:
+./run-softphone.sh
+
+Documentation
+Standards: ITU, IEEE, 3GPP references.
+
+Investor Decks: Business model canvas, pitch diagrams.
+
+Compliance: Licensing and regulatory notes.
+
+📊 Business Model Canvas
+Value Proposition: Reliable PBX + IoT comms for SMEs, transport, healthcare.
+
+Customer Segments: Enterprises, public sector, OEMs.
+
+Channels: Direct sales, managed services, SaaS subscriptions.
+
+Revenue Streams: Licensing, SaaS, managed services.
+
+Key Partners: Regulators, telecom operators, automotive OEMs.
+
+Key Activities: Protocol engineering, service delivery, training.
+
+Key Resources: PBX core, V2X middleware, trained staff.
+
+Cost Structure: R&D, compliance, operations, training.
+
+🛡️ Governance
+Risk Register: Severity/likelihood ratings with mitigation strategies.
+
+Compliance Binder: Telecom licensing, data protection.
+
+Advisory Board: Governance and investor oversight.
+
+🤝 Contributing
+We welcome contributions from developers, researchers, and partners.
+See /CONTRIBUTING.md for guidelines.
+Training bootcamp materials and sales playbooks are included.
+
+📜 License
+Proprietary © RAININ Group, 2026.
+Contact us for licensing and partnership opportunities.
+
+---
+
+ 
+
+
