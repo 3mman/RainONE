@@ -1,5 +1,3 @@
-# RainONE
-“RainONE: A modular communications engineering platform for PBX, V2X, and IoT systems aligned with ITU/IEEE/3GPP Standards.
 # RainOne – Unified Communications Platform
 
 RainOne is the flagship platform of **RAININ Group**, combining enterprise PBX, JTAPI-based softphone, and IoT vehicle communications middleware into a unified architecture.  
@@ -18,7 +16,7 @@ To engineer reliable, scalable communications for enterprises and smart mobility
 - **API Gateway**: REST/WebSocket endpoints for integration.
 - **Vehicle Comms Middleware**: DSRC, C-V2X, CAN, ITS-G5 protocol support.
 
-📖 See `/docs/architecture` for diagrams and specifications.
+📖 Architecture diagrams and specifications will be added here.
 
 ---
 
